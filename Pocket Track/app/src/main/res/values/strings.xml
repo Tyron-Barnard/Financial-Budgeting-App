@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Finance Budgeting App</string>
+    <string name="pocketTrack">PocketTrack</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="loginUnderlined"><u>Login</u></string>
+    <string name="forgotPassword"><u>Forgot Password?</u></string>
+    <string name="pocketTrackLogo">PocketTrack Logo</string>
+    <string name="createAccount">Create Account</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="bitcoin_icon">bitcoin_icon</string>
+    <string name="investing">Investing</string>
+    <string name="Saving">Saving</string>
+    <string name="submit">Submit</string>
+    <string name="questionnaire">Questionnaire</string>
+    <string name="what_is_your_average_monthly_salary">What is your Average Monthly Salary:</string>
+    <string name="what_are_your_average_monthly_expenses">What are your average Monthly Expenses:</string>
+    <string name="do_you_have_an_emergency_fund">Do you have an emergency fund:</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="what_is_the_value_of_the_emergency_fund">what is the value of the emergency fund:</string>
+    <string name="do_you_have_a_retirement_fund">Do you have a retirement fund:</string>
+    <string name="lowercase_yes">Yes</string>
+    <string name="what_is_the_value_of_the_retirement_fund">What is the value of the retirement fund:</string>
+    <string name="back_icon">back_icon</string>
+    <string name="support">Support</string>
+    <string name="profile_icon">profile_icon</string>
+    <string name="support_icon">support_icon</string>
+    <string name="money_icon">money_icon</string>
+    <string name="goals_icon">goals_icon</string>
+    <string name="home_icon">home_icon</string>
+    <string name="Goal_setting">String</string>
+    <string name="Goal_Setting">Goal Setting</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Submit">Submit</string>
+    <string name="Goal_s">Goal Setting</string>
+    <string name="Goal_Name">Goal Name</string>
+    <string name="Goal_Amount">Goal Amount</string>
+    <string name="Goal_Logo">TODO</string>
+
+
+
+    <string name="tertiary">Tertiary</string>
+    <string name="goal">Goal</string>
+    <string name="secondary">Secondary</string>
+    <string name="primary">Primary</string>
+    <string name="Image">Image</string>
+    <string name="sign_out"><u>Sign Out</u></string>
+    <string name="learn_more"><u>Learn More</u></string>
+    <string name="help"><u>Help</u></string>
+    <string name="goalbtn_Goals">Goal</string>
+    <string name="primarybnt_Goals">Primary</string>
+    <string name="secondarybnt_Goals">Secondary</string>
+    <string name="tertiarybtn_Goals">Tertiary</string>
+    <string name="add_Goals">Image</string>
+    <string name="signupText">Don\'t have an account? <u>Signup</u></string>
+
+</resources>

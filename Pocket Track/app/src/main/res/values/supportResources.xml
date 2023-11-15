@@ -1,0 +1,95 @@
+<resources>
+    <string-array name="support_titles">
+        <item>Investing</item>
+        <item>Saving</item>
+        <item>50/30/20 Rule</item>
+        <item>Car Affordability</item>
+    </string-array>
+    <string-array name="support_images">
+        <item>bitcoin_icon</item>
+        <item>saving_icon</item>
+        <item>star_icon</item>
+        <item>car_icon</item>
+    </string-array>
+    <string-array name="my_array">
+        <item><string>Investing, broadly, is putting money to work for a period of time in some sort of project or
+            undertaking in order to generate positive returns (i.e., profits that exceed the amount of the initial
+            investment). It is the act of allocating resources, usually capital (i.e., money), with the expectation
+            of generating an income, profit, or gains.
+        \n\nOne can invest in many types of endeavors (either directly or indirectly) such as using money to start
+            a business, or in assets such as purchasing real estate in hopes of generating rental income and/or
+            reselling it later at a higher price.
+        \n\nInvesting differs from saving in that the money used is put to work, meaning that there is some
+            implicit risk that the related project(s) may fail, resulting in a loss of money. Investing also
+            differs from speculation in that with the latter, the money is not put to work per-se, but is
+            betting on the short-term price fluctuations.</string>
+        </item>
+        <item><string>Savings comprise the amount of money left over after spending. People may save for various life
+            goals or aspirations such as retirement, a child\'s college education, the down payment for a home or
+            car, a vacation, or several other examples.
+        \n\nSavings may commonly be earmarked for emergencies. For example, Sasha’s monthly paycheck is $5,000.
+            Expenses include a $1,300 rent payment, a $450 car payment, a $500 student loan payment, a $300 credit
+            card payment, $250 for groceries, $75 for utilities, $75 for cellphone service, and $100 for gas.
+            Since Sasha\'s monthly income is $5,000 and monthly expenses are $3,050, there is $1,950 leftover
+            as savings. If Sasha maintains this excess as savings and later faces an emergency, there will be
+            some money to live on while resolving the issue.
+        \n\nIf one is unable to maintain savings, they may be said to be living paycheck to paycheck. If such a
+            person experiences an emergency, there is often not enough money saved up to live on and they may risk falling into debt or bankruptcy.</string>
+        </item>
+        <item><string>50%: Needs\nNeeds are those bills that you absolutely must pay and are the things necessary for survival. Half of your after-tax income should be all that you need to cover your needs and obligations.
+                If you are spending more than that on your needs, you will have to either cut down on wants or
+                try to downsize your lifestyle, perhaps to a smaller home or more modest car. Maybe carpooling
+                or taking public transportation to work is a solution, or cooking at home more often.\n\n30%: Wants\nWants are all the things you spend money on that are not absolutely essential. Anything in the "wants" bucket is optional if you boil it down. You can work out at home instead of going to the
+                gym, cook instead of eating out, or watch sports on TV instead of getting tickets to the game.
+                This category also includes those upgrade decisions you make, such as choosing a costlier
+                steak instead of a less expensive hamburger, buying a Mercedes instead of a more economical Honda,
+                or choosing between watching television using an antenna for free or spending money to watch cable TV.
+
+                \n\n20%: Savings\nFinally, try to allocate 20% of your net income to savings and investments. You should have at least three months of emergency savings on hand in case you lose your job or an unforeseen event occurs.
+                After that, focus on retirement and meeting other financial goals down the road
+
+            </string>
+        </item>
+
+        <item>
+            <string>
+                How to Calculate How Much You Can Afford to Spend on a Car
+                When thinking about what you should spend on a vehicle, keep in mind that the purchase price is only one part of your expenses.
+                To make sure you can comfortably afford the car you want, make sure you account for the following:
+
+                \n\n
+
+                Income \n
+                Calculate your take-home income. This is how much you earn after taxes. In general, experts recommend spending 10%–15% of your income on transportation, including car payment, insurance, and fuel. For example, if your take-home pay is $4,000 per month, then you should spend $400 to $600 on transportation.
+
+                To be sure, that range is simply for guidance. Depending on your income and expenses, you may have to
+                budget less. For example, if you live in an area with high housing costs, then you’ll have less to
+                spend on a car.
+
+                \n\n
+
+                Existing Debt \n
+                If you have debt like student loans, medical bills, or credit card balances, then your payments
+                may eat up a big part of your income. Lots of debt will trim that car-buying budget.
+
+                \n\n
+
+                Maintenance Fees \n
+                While you may not be thinking about repairs on a new vehicle, all cars need maintenance. If your car
+                is older, it may need a tune-up or new tires.
+                In general, maintenance costs about 9 cents per mile. If you drive 12,000 miles per year, then you
+                should expect to spend $1,080 on maintenance annually.
+
+                \n\n
+
+                Fuel \n
+                If you commute to school or work, gas is another expense to add to your budget. According to a
+                report from the Bureau of Labor Statistics, in 2019, the average person spent $2,094 per year on
+                gas, or about $175 per month. 9
+                However, if you have a lengthy commute or enjoy road trips, then your actual cost may be much
+                higher. To add money back to your budget, buy a car with a smaller motor that burns less fuel.
+
+            </string>
+        </item>
+    </string-array>
+</resources>

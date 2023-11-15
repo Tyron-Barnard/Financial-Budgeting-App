@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Red Circle -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/accent" />
+        </shape>
+    </item>
+
+    <!-- Minus Symbol -->
+    <item android:drawable="@drawable/ic_plus" android:gravity="center" />
+</layer-list>
